@@ -2,6 +2,9 @@
 
 AI-powered stock research project with a FastAPI backend and a plain JavaScript frontend. The app runs multi-step research agents, tracks node progress live, generates a formatted stock report, and supports PDF/Markdown download.
 
+<!-- 1. RESİM: ANA KARŞILAMA EKRANI -->
+<img width="1919" height="905" alt="dashboard" src="https://github.com/user-attachments/assets/f52f748d-2b03-404a-b9f6-f2b62739e8e5" />
+
 ## Features
 
 - Admin login
