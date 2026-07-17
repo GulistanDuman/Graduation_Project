@@ -116,18 +116,6 @@ You can also register a new institutional admin account via the registration int
 ## How To Search A Stock
 
 In the chat input, type a ticker or a full request:
-<img width="1919" height="902" alt="report" src="https://github.com/user-attachments/assets/9e23e5b6-5e8a-4bb8-b26e-48a4e3b3db0f" />
-
-<img width="1913" height="899" alt="summary" src="https://github.com/user-attachments/assets/75a4bcb4-23ce-44a0-9af9-4611c9ce527e" />
-
-<img width="1915" height="897" alt="metrics" src="https://github.com/user-attachments/assets/31d4ca8a-0c48-4bcc-b44c-a64310cd983b" />
-
-<img width="1919" height="905" alt="live log" src="https://github.com/user-attachments/assets/d2b4f086-971a-4649-8ec8-28013332c3d6" />
-
-<img width="1518" height="890" alt="live_tracking" src="https://github.com/user-attachments/assets/5e63fe81-29cc-4c83-8cfd-7366021df410" />
-
-<img width="1911" height="907" alt="nodes2" src="https://github.com/user-attachments/assets/1da503d4-4ba6-4e1c-ae7e-15acb5c3650e" />
-
 ```text
 AAPL stock analysis with one year prediction
 ```
@@ -139,6 +127,31 @@ NVDA stock analysis
 CRWV stock analysis with one year prediction
 AVGO stock analysis with buy hold sell recommendation
 ```
+<img width="1919" height="902" alt="report" src="https://github.com/user-attachments/assets/9e23e5b6-5e8a-4bb8-b26e-48a4e3b3db0f" />
+
+<img width="1913" height="899" alt="summary" src="https://github.com/user-attachments/assets/75a4bcb4-23ce-44a0-9af9-4611c9ce527e" />
+
+<img width="1915" height="897" alt="metrics" src="https://github.com/user-attachments/assets/31d4ca8a-0c48-4bcc-b44c-a64310cd983b" />
+
+Live Agent Node Tracking & Logs
+
+You can monitor how the AI agents work sequentially and in parallel behind the scenes, tracking their real-time execution status and timeline progress:
+
+<img width="1919" height="905" alt="live log" src="https://github.com/user-attachments/assets/d2b4f086-971a-4649-8ec8-28013332c3d6" />
+
+3. Real-Time Execution Logs
+
+Every backend orchestration step can be closely reviewed second-by-second through the timestamped log terminal:
+
+<img width="1518" height="890" alt="live_tracking" src="https://github.com/user-attachments/assets/5e63fe81-29cc-4c83-8cfd-7366021df410" />
+
+
+1. Analysis Initialization (Node Status - 0% Complete)
+
+When a research request is triggered, all sub-agents and supervisors switch to a prepared 'waiting' state:
+
+<img width="1911" height="907" alt="nodes2" src="https://github.com/user-attachments/assets/1da503d4-4ba6-4e1c-ae7e-15acb5c3650e" />
+
 
 ## Download Report
 
