@@ -110,6 +110,7 @@ Password: admin@1234
 <img width="1919" height="900" alt="login" src="https://github.com/user-attachments/assets/b4720b01-29b6-43d3-86cb-15ebf5c0da1e" />
 
 You can also register a new institutional admin account via the registration interface.
+
 <img width="1916" height="895" alt="register" src="https://github.com/user-attachments/assets/7a72f54d-86ad-4958-aa37-e57d6d40d765" />
 
 ## How To Search A Stock
