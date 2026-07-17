@@ -139,14 +139,14 @@ You can monitor how the AI agents work sequentially and in parallel behind the s
 
 <img width="1919" height="905" alt="live log" src="https://github.com/user-attachments/assets/d2b4f086-971a-4649-8ec8-28013332c3d6" />
 
-3. Real-Time Execution Logs
+ Real-Time Execution Logs
 
 Every backend orchestration step can be closely reviewed second-by-second through the timestamped log terminal:
 
 <img width="1518" height="890" alt="live_tracking" src="https://github.com/user-attachments/assets/5e63fe81-29cc-4c83-8cfd-7366021df410" />
 
 
-1. Analysis Initialization (Node Status - 0% Complete)
+ Analysis Initialization (Node Status - 0% Complete)
 
 When a research request is triggered, all sub-agents and supervisors switch to a prepared 'waiting' state:
 
